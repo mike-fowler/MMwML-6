@@ -6,4 +6,5 @@ The aim was to train a GAN on the Fashion MNIST dataset and use it to generate o
 
 Below are 2 examples illustrating an outrageously stylish Mushroom shirt with matching ankle boot
 
-![alt text](https://raw.githubusercontent.com/mike-fowler/MMwMML-6/master/2_examples_of_generated_images.png)
+
+![Alt text](/2_examples_of_generated_images.png?raw=true "Title")
